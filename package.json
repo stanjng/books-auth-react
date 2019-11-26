@@ -1,6 +1,6 @@
 {
   "name": "books-auth-react",
-  "homepage": "https://stanjng.github.io/books-auth-react.git",
+  "homepage": "https://git.generalassemb.ly/stanjng/books-auth-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
